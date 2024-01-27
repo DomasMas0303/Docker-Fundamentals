@@ -1,4 +1,4 @@
-<h1>Fundamentals - Python</h1>
+<h1>Fundamentals - Docker</h1>
 
 <h2>Description</h2>
 Each module consists of lectures followed up by tests and homework.
