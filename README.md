@@ -25,7 +25,7 @@ Each module consists of lectures followed up by tests and homework.
 
 <h2> Tasks: </h2>
 
-#attached as files
+attached as screenshots
 
 
 
